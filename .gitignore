@@ -1,0 +1,6 @@
+*.jar
+*.jar.pack.gz
+*.dll
+*.zip
+META-INF/
+launch.jnlp
